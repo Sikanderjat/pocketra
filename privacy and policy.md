@@ -151,7 +151,6 @@ Changes will be reflected on this page with an updated effective date.
 For questions, support, or privacy-related concerns:
 
 **Developer:** Sikander
-**Email:** [sikandergrade@gmail.com](mailto:sikandergrade@gmail.com)
 
 ---
 
